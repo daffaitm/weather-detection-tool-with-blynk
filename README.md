@@ -33,13 +33,13 @@ With the rainy season upon us, frequent and unpredictable rain can cause inconve
 Watch the video demonstration of our project [here](https://youtu.be/XOnppKJMeDY).
 
 
-## Schematic
-
-![Schematic](images/schematic.jpg)
-
 ## System Flowchart
 
-![System Flowchart](images/flowchart.png)
+![System Flowchart](flowchart.png)
+
+## Schematic
+
+![Schematic](schematic.jpg)
 
 
 ## Bill of Materials
