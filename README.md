@@ -35,7 +35,7 @@ Watch the video demonstration of our project [here](https://youtu.be/XOnppKJMeDY
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/schematic.jpg)
 
 ## System Flowchart
 
